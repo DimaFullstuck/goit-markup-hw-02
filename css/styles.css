@@ -33,12 +33,12 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.contacts-link-mailto {
+.contacts-link-mailto :hover {
   font: 400 16px / 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts-link-tel {
+.contacts-link-tel :hover {
   font: 500 20px / 1.2 "Roboto", sans-serif;
   letter-spacing: 0.02em;
   color: #434455;
