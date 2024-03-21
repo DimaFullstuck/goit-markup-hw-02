@@ -52,6 +52,7 @@ body {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
 }
+/* Solution list */
 .solution-head {
   font: 500 20px / 1.2 "Roboto", sans-serif;
   letter-spacing: 0.02em;
@@ -63,3 +64,4 @@ body {
   color: #434455;
   text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
+/* Our team */
