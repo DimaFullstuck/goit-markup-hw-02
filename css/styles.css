@@ -132,8 +132,13 @@ body {
 /* --------------- */
 /* -------------Footer */
 .footer {
+  background: #2e2f42;
 }
-.link {
+.footer-link {
+  font: 700 18px / 1.16667 "Raleway", sans-serif;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
 }
 .footer-logo-item {
   font: 700 18px / 1.17 "Raleway", sans-serif;
