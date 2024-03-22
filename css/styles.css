@@ -19,6 +19,10 @@ body {
 .header-menu-link {
   color: #2e2f42;
 }
+.header-menu-list:focus,
+.header-menu-list:hover {
+  color: #404bbf;
+}
 .header-nav-link {
   font: 700 18px / 1.17 "Raleway", sans-serif;
   letter-spacing: 0.03em;
