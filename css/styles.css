@@ -71,10 +71,8 @@ body {
   background: #4d5ae5;
   cursor: pointer;
 }
-.section-accent :hover {
-  background-color: #404bbf;
-}
-.section-accent :focus {
+.section-accent :hover,
+:focus {
   background-color: #404bbf;
 }
 /* Solution list */
@@ -156,6 +154,7 @@ body {
 }
 
 /* --------------- */
+
 /* -------------Footer */
 .footer {
   background: #2e2f42;
