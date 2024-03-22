@@ -36,7 +36,7 @@ a:focus {
   font-style: normal;
 }
 .contacts-link-mailto {
-  font: 400 16px / 1.5;
+  font: 400 16px / 1.5 "Roboto", sans-serif;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -152,16 +152,16 @@ a:focus {
   background: #2e2f42;
 }
 .footer-link {
-  font: 700 18px / 1.16667 "Raleway", sans-serif;
+  font: 700 18px / 1.17 "Raleway", sans-serif;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
+  color: #4d5ae5;
 }
 .footer-logo-item {
   font: 700 18px / 1.17 "Raleway", sans-serif;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 .footer-text {
   font: 400 16px / 1.5 "Roboto", sans-serif;
