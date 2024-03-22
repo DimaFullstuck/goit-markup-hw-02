@@ -19,7 +19,7 @@ body {
 .header-menu-link {
   color: #2e2f42;
 }
-.header-menu-list a:focus {
+.header-menu-list {
   color: #404bbf;
 }
 
