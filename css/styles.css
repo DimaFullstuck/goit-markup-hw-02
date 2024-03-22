@@ -65,13 +65,14 @@ a:focus {
   font: 500 16px / 1.5 "Roboto", sans-serif;
   letter-spacing: 0.04em;
   color: #fff;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
-}
-.section-accent :hover,
-:focus {
-  background-color: #404bbf;
   cursor: pointer;
+}
+.section-accent :hover {
+  background-color: #404bbf;
+}
+.section-accent :focus {
+  background-color: #404bbf;
 }
 /* Solution list */
 .solution-head {
