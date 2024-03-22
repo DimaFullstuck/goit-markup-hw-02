@@ -74,6 +74,7 @@ body {
 .section-accent:hover,
 .section-accent:focus {
   background-color: #404bbf;
+  color: #404bbf;
 }
 /* Solution list */
 .solution-head {
