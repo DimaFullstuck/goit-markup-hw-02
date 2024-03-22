@@ -116,6 +116,7 @@ a:focus {
 /* ----------- */
 /* --------Our portfolio------- */
 .section-portfolio {
+  background-color: #f4f4fd;
 }
 .section-portfolio-title {
   font: 700 36px / 1.11 "Roboto", sans-serif;
@@ -137,8 +138,10 @@ a:focus {
 .container {
 }
 .container-list {
+  background-color: #ffffff;
 }
 .container-item {
+  background-color: #ffffff;
 }
 .container-image {
 }
