@@ -83,16 +83,19 @@ a:focus {
 /* ---------------- */
 /* Our team */
 .ourteam {
+  background: #f4f4fd;
 }
 .ourteam-title {
   font: 700 36px / 1.11 "Roboto", sans-serif;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .ourteam-list {
 }
 .ourteam-item {
+  background-color: #ffffff;
 }
 .ourteam-image {
 }
