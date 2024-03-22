@@ -35,11 +35,14 @@ body {
 .contacts {
   font-style: normal;
 }
-.contacts-link-mailto :hover,
-:focus {
+.contacts-link-mailto {
   font: 400 16px / 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.contacts-link-mailto :hover,
+:focus {
+  color: #404bbf;
 }
 .contacts-link-tel :hover,
 :focus {
