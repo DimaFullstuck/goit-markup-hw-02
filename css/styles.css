@@ -119,15 +119,8 @@ a:focus {
   font: 700 36px / 1.11 "Roboto", sans-serif;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
-}
-.container {
-}
-.container-list {
-}
-.container-item {
-}
-.container-image {
 }
 .container-subtitle {
   font: 500 20px / 1.2 "Roboto", sans-serif;
@@ -139,6 +132,15 @@ a:focus {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.container {
+}
+.container-list {
+}
+.container-item {
+}
+.container-image {
+}
+
 /* --------------- */
 /* -------------Footer */
 .footer {
