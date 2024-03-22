@@ -16,13 +16,11 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.header-nav-link {
-  font: 700 18px / 1.17 "Raleway", sans-serif;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
+.header-menu-link :hover,
+:focus {
+  color: #404bbf;
 }
-.header-logo-itemtwo {
+.header-nav-link {
   font: 700 18px / 1.17 "Raleway", sans-serif;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -37,12 +35,14 @@ body {
 .contacts {
   font-style: normal;
 }
-.contacts-link-mailto :hover {
+.contacts-link-mailto :hover,
+:focus {
   font: 400 16px / 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts-link-tel :hover {
+.contacts-link-tel :hover,
+:focus {
   font: 500 20px / 1.2 "Roboto", sans-serif;
   letter-spacing: 0.02em;
   color: #434455;
