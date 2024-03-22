@@ -17,7 +17,7 @@ body {
   color: #2e2f42;
 }
 .header-menu-link {
-  color: #404bbf;
+  color: #2e2f42;
 }
 .header-nav-link {
   font: 700 18px / 1.17 "Raleway", sans-serif;
@@ -39,11 +39,13 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts-link-mailto :hover {
+.contacts-link-mailto :hover,
+:focus {
   background-color: #404bbf;
 }
 
-.contacts-link-tel :hover {
+.contacts-link-tel :hover,
+:focus {
   color: #404bbf;
 }
 .contacts-link-tel {
@@ -157,10 +159,6 @@ body {
 /* -------------Footer */
 .footer {
   background: #2e2f42;
-  font: 700 18px / 1.17 "Raleway", sans-serif;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
 }
 
 .footer-link {
