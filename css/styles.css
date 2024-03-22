@@ -40,8 +40,9 @@ body {
   color: #434455;
 }
 .contacts-link-mailto :hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
+
 .contacts-link-tel :hover {
   color: #404bbf;
 }
