@@ -14,7 +14,7 @@ body {
   font: 700 18px / 1.17 "Raleway", sans-serif;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 .header-menu-link a:hover,
 a:focus {
@@ -24,7 +24,7 @@ a:focus {
   font: 700 18px / 1.17 "Raleway", sans-serif;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 .header-menu-item {
   font: 500 16px / 1.5 "Roboto", sans-serif;
