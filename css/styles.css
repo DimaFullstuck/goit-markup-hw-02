@@ -19,8 +19,8 @@ body {
 .header-menu-link {
   color: #2e2f42;
 }
-.header-menu-item:focus,
-.header-menu-item:hover {
+.header-menu-item:hover,
+.header-menu-item:focus {
   color: #404bbf;
 }
 .header-nav-link {
