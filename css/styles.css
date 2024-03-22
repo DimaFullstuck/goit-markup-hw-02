@@ -39,13 +39,13 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts-link-mailto :hover,
-:focus {
+.contacts-link-mailto:hover,
+.contacts-link-mailto:focus {
   background-color: #404bbf;
 }
 
-.contacts-link-tel :hover,
-:focus {
+.contacts-link-tel:hover,
+.contacts-link-te:focus {
   color: #404bbf;
 }
 .contacts-link-tel {
@@ -71,8 +71,8 @@ body {
   background: #4d5ae5;
   cursor: pointer;
 }
-.section-accent :hover,
-:focus {
+.section-accent:hover,
+.section-accent:focus {
   background-color: #404bbf;
 }
 /* Solution list */
