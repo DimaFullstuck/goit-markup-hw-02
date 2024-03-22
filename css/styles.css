@@ -158,18 +158,19 @@ body {
 .footer {
   background: #2e2f42;
 }
-.footer-link {
+.footer-logo-item {
   font: 700 18px / 1.17 "Raleway", sans-serif;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
 }
-.footer-logo-item {
+.footer-link {
   font: 700 18px / 1.17 "Raleway", sans-serif;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .footer-text {
   font: 400 16px / 1.5 "Roboto", sans-serif;
   letter-spacing: 0.02em;
