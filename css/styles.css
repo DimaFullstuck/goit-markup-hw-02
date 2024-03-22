@@ -47,7 +47,10 @@ body {
 .contacts-link-mailto:focus {
   color: #404bbf;
 }
-
+.contacts-item:focus,
+.contacts-item:hover {
+  color: #404bbf;
+}
 .contacts-link-tel:hover,
 .contacts-link-tel:focus {
   color: #404bbf;
