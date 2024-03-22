@@ -49,7 +49,7 @@ body {
 }
 
 .contacts-link-tel:hover,
-.contacts-link-te:focus {
+.contacts-link-tel:focus {
   color: #404bbf;
 }
 .contacts-link-tel {
