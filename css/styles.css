@@ -114,6 +114,7 @@ a:focus {
 /* ----------- */
 /* --------Our portfolio------- */
 .section-portfolio {
+  text-transform: capitalize;
 }
 .section-portfolio-title {
   font: 700 36px / 1.11 "Roboto", sans-serif;
