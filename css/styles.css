@@ -83,6 +83,7 @@ a:focus {
 /* ---------------- */
 /* Our team */
 .ourteam {
+  background-color: #f4f4fd;
 }
 .ourteam-title {
   font: 700 36px / 1.11 "Roboto", sans-serif;
@@ -96,6 +97,7 @@ a:focus {
   background-color: #ffffff;
 }
 .ourteam-item {
+  background-color: #ffffff;
 }
 .ourteam-image {
 }
@@ -114,7 +116,6 @@ a:focus {
 /* ----------- */
 /* --------Our portfolio------- */
 .section-portfolio {
-  text-transform: capitalize;
 }
 .section-portfolio-title {
   font: 700 36px / 1.11 "Roboto", sans-serif;
