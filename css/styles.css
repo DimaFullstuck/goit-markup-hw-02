@@ -164,10 +164,13 @@ body {
 }
 
 .footer-link {
-  font: 700 18px / 1.17 "Raleway", sans-serif;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  line-height: 1.17;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Raleway", sans-serif;
 }
 
 .footer-logo-item {
