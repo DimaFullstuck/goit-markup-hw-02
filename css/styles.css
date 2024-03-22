@@ -68,6 +68,11 @@ a:focus {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
 }
+.section-accent :hover,
+:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
 /* Solution list */
 .solution-head {
   font: 500 20px / 1.2 "Roboto", sans-serif;
