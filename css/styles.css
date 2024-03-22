@@ -41,14 +41,12 @@ body {
 }
 .contacts-link-mailto:hover,
 .contacts-link-mailto:focus {
-  background-color: #404bbf;
   color: #404bbf;
 }
 
 .contacts-link-tel:hover,
 .contacts-link-te:focus {
   color: #404bbf;
-  background-color: #404bbf;
 }
 .contacts-link-tel {
   font: 500 20px / 1.2 "Roboto", sans-serif;
