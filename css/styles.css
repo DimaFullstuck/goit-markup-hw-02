@@ -40,12 +40,13 @@ a:focus {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contacts-link-mailto :hover,
-:focus {
+.contacts-link-mailto :hover {
   color: #404bbf;
 }
-.contacts-link-tel :hover,
-:focus {
+.contacts-link-tel :hover {
+  color: #404bbf;
+}
+.contacts-link-tel {
   font: 500 20px / 1.2 "Roboto", sans-serif;
   letter-spacing: 0.02em;
   color: #434455;
