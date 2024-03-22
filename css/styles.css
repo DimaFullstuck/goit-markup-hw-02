@@ -20,7 +20,7 @@ body {
   color: #2e2f42;
 }
 .header-menu-item:focus,
-:hover {
+.header-menu-item:hover {
   color: #404bbf;
 }
 .header-nav-link {
